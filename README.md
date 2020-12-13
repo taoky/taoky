@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 It's taoky!
 
+<details><summary>Show GitHub stats: (Be careful of light if in dark mode)</summary>
+
 ![taoky's github stats](https://github-readme-stats.vercel.app/api?username=taoky)
+</details>
